@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: 정보사회와소프트웨어 <b>I</b>nformation <b>S</b>ociety and <b>S</b>oftware (Scratch)
 description: 060487 • 2023년 2학기 • 전주교육대학교
-logo: jnue-logo.png
+logo: jnue-logo.jpg
 news: true
 ---
 
