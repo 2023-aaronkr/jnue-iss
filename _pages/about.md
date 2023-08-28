@@ -7,12 +7,45 @@ logo: jnue-logo.jpg
 news: true
 ---
 
-- **Time:** 목 12, 34, 67, 금 12 | Thurs 9-11am, 11-1pm, 2-4pm, Fri 9-11am
-- **Location:** [W18 (미래융합정보관) - 108호](https://naver.me/GSHd39rS){:target="\_blank"}
-- **국어(2):** [카카오톡 📓 오픈채팅](https://open.kakao.com/o/g36jMPDf){:target="\_blank"}
-- **음악(7):** [카카오톡 🎸 오픈채팅](https://open.kakao.com/o/g5L7FPDf){:target="\_blank"}
-- **미술(8):** [카카오톡 🖍️ 오픈채팅](https://open.kakao.com/o/gsthOPDf){:target="\_blank"}
-- **컴퓨터(12):** [카카오톡 💻 오픈채팅](https://open.kakao.com/o/gYj43PDf){:target="\_blank"}
+<table class="table table-hover">
+  <colgroup>
+    <col style="width:12%">
+    <col style="width:22%">
+    <col style="width:22%">
+    <col style="width:22%">
+    <col style="width:22%">
+  </colgroup>
+  <tbody>
+    <tr>
+      <th scope="row">Class</th>
+      <th>060487-2 국어📓</th>
+      <th>060487-7 음악🎸</th>
+      <th>060487-8 미술🖍️</th>
+      <th>060487-12 컴퓨터💻</th>
+    </tr>
+    <tr>
+      <th scope="col">Time</th>
+      <td>Thurs 9-11am</td>
+      <td>Thurs 11-1pm</td>
+      <td>Thurs 2-4pm</td>
+      <td>Fri 9-11am</td>
+    </tr>
+    <tr>
+      <th scope="row">Location</th>
+      <td>전산교육실2 (3층)</td>
+      <td>전산교육실2 (3층)</td>
+      <td>ICT2 (2층)</td>
+      <td>전산교육실2 (3층)</td>
+    </tr>
+    <tr>
+      <th scope="row">Date</th>
+      <td><a href="https://open.kakao.com/o/g36jMPDf" target="_blank">카카오톡 📓 오픈채팅</a></td>
+      <td><a href="https://open.kakao.com/o/g5L7FPDf" target="_blank">카카오톡 🎸 오픈채팅</a></td>
+      <td><a href="https://open.kakao.com/o/gsthOPDf" target="_blank">카카오톡 🖍️ 오픈채팅</a></td>
+      <td><a href="https://open.kakao.com/o/gYj43PDf" target="_blank">카카오톡 💻 오픈채팅</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
