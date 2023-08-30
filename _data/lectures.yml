@@ -2,7 +2,7 @@
   week: 1
   title: >
     <strong>CHAPTER 01 소프트웨어와 스크래치</strong>
-  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: "https://docs.google.com/presentation/d/1Vs0jV-6I0b7n-YQDLhf7dZUwL9nZMHUUYS26aksYHs8/edit?usp=sharing"
   readings:
     - 01 소프트웨어
     - 02 프로그램과 프로그래밍 언어
@@ -13,7 +13,7 @@
   week: 2
   title: >
     <strong>CHAPTER 02 블록 사용법 익히기</strong>
-  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides:
   readings:
     - 01 스크래치 블록의 종류와 사용법
     - 02 스크래치 프로그래밍 전 과정
@@ -23,7 +23,7 @@
   week: 3
   title: >
     <strong>CHAPTER 03 스프라이트 사용법 익히기</strong>
-  slides: "https://drive.google.com/open?id=1pl_IeC4N11IUMAyJnPcT_HDLHBVfB4Qx"
+  slides:
   readings:
     - 01 스프라이트의 구현 방식
     - 02 스프라이트의 동작 구현
@@ -36,7 +36,7 @@
   week: 4
   title: >
     <strong>CHAPTER 04 자료형과 연산, 변수 익히기</strong>
-  slides: "https://drive.google.com/open?id=10-YQcNcpEETh8GAbrm2Oc4jFFO5J6q1B"
+  slides:
   readings:
     - 01 자료형, 연산, 변수
     - 02 지역 변수와 전역 변수
@@ -52,7 +52,7 @@
   week: 6
   title: >
     <strong>CHAPTER 05 조건과 문장 제어 익히기</strong>
-  slides: "https://drive.google.com/open?id=1CB0FIvx30B8zZYPLxirZNBxPgAR0Nj8K"
+  slides:
   readings:
     - 01 조건의 이해
     - 02 문장의 이해
@@ -65,7 +65,7 @@
   week: 7
   title: >
     <strong>CHAPTER 06 프로시저(함수)와 병렬 처리 익히기</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 프로시저의 개념과 구현
     - 02 병렬 처리의 개념과 구현
@@ -80,7 +80,7 @@
   week: 9
   title: >
     <strong>CHAPTER 07 컴퓨팅 사고력과 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 컴퓨팅 사고력
     - 02 추상화의 개념과 구현
@@ -93,7 +93,7 @@
   week: 10
   title: >
     <strong>CHAPTER 08 감지를 활용한 응용 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 감지의 이해
     - 02 감지 응용 프로그래밍
@@ -104,7 +104,7 @@
   week: 11
   title: >
     <strong>CHAPTER 09 이벤트를 활용한 응용 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 이벤트 처리와 메시지 방송
     - 02 이벤트 응용 프로그래밍
@@ -115,7 +115,7 @@
   week: 12
   title: >
     <strong>CHAPTER 10 복제, 난수, 재귀 호출을 활용한 응용 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 복제의 개념과 활용
     - 02 난수의 개념과 활용
@@ -126,7 +126,7 @@
   week: 13
   title: >
     <strong>CHAPTER 11 프로그램 개발 과정 이해하기</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 프로그램의 생명주기
     - 02 요구사항 분석의 개념과 예
@@ -138,7 +138,7 @@
   week: 14
   title: >
     <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 게임의 개념과 종류
     - 02 다양한 게임 기능의 구현
@@ -149,7 +149,7 @@
   week: 15
   title: >
     <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
-  slides: "https://drive.google.com/open?id=1m1s2SKX8cKLw-jfHFQaOksQ4ZAVtNnKU"
+  slides:
   readings:
     - 01 인터랙티브 스토리의 개념과 진행 구조
     - 02 인터랙티브 스토리의 씬 진행과 씬 전환
