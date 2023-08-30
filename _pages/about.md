@@ -26,8 +26,8 @@ news: true
     </tr>
     <tr>
       <th scope="col">Time</th>
-      <td>Thurs 9-11am</td>
       <td>Thurs 11-1pm</td>
+      <td>Thurs 9-11am</td>
       <td>Thurs 2-4pm</td>
       <td>Fri 9-11am</td>
     </tr>
