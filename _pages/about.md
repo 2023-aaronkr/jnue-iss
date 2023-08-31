@@ -26,10 +26,10 @@ news: true
     </tr>
     <tr>
       <th scope="col">Time</th>
-      <td>Thurs 11-1pm</td>
-      <td>Thurs 9-11am</td>
-      <td>Thurs 2-4pm</td>
-      <td>Fri 9-11am</td>
+      <td>Thurs 11-1pm (목 3,4)</td>
+      <td>Thurs 9-11am (목 1,2)</td>
+      <td>Thurs 2-4pm (목 6,7)</td>
+      <td>Fri 9-11am (금 1,2)</td>
     </tr>
     <tr>
       <th scope="row">Location</th>
