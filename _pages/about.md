@@ -48,6 +48,8 @@ news: true
   </tbody>
 </table>
 
+- **Portal:** [전주교육대학교 포탈](https://portal.jnue.kr){:target="\_blank"}
+
 <!--
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
