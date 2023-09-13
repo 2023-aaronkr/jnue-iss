@@ -23,7 +23,7 @@
   week: 3
   title: >
     <strong>CHAPTER 03 스프라이트 사용법 익히기</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1BaWNDgvMbQbr7Is_nLJKtkaBo2WwCV1YXlzcB6RHnNk/edit?usp=sharing"
   readings:
     - 01 스프라이트의 구현 방식
     - 02 스프라이트의 동작 구현
