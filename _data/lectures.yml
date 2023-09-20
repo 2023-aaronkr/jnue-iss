@@ -36,7 +36,7 @@
   week: 4
   title: >
     <strong>CHAPTER 04 자료형과 연산, 변수 익히기</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1Q1oWedQP01MXYCQOefps0J0uFe8SrKkB_ShwKqSwCx4/edit?usp=sharing"
   readings:
     - 01 자료형, 연산, 변수
     - 02 지역 변수와 전역 변수
