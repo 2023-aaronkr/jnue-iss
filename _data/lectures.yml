@@ -47,7 +47,8 @@
   week: 5
   title: >
     <strong>No School</strong> Chuseok<br>
-    - <span style="color: red;">LMS 보강</span> <strong>CHAPTER 05 조건과 문장 제어 익히기</strong>
+    <a style="color: red;" href="https://lms.jnue.kr">(LMS에서 보강)</a></br>
+    - <strong>CHAPTER 05 조건과 문장 제어 익히기</strong>
   slides: "https://docs.google.com/presentation/d/1Q1oWedQP01MXYCQOefps0J0uFe8SrKkB_ShwKqSwCx4/edit?usp=sharing"
   readings:
     - 01 조건의 이해
@@ -61,7 +62,7 @@
   week: 6
   title: >
     <strong>CHAPTER 06 프로시저(함수)와 병렬 처리 익히기</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/16AP4TH7LyuRkIo8ZFbAFBwOyew56IAZTn9FLNMOgdiE/edit?usp=sharing"
   readings:
     - 01 프로시저의 개념과 구현
     - 02 병렬 처리의 개념과 구현
