@@ -56,7 +56,8 @@
     - 03 문장의 반복적 실행
     - 04 문장의 선택적 실행
     - 05 반복과 선택의 중첩 실행
-  logistics:
+  logistics: >
+    <a href="https://lms.jnue.kr">LMS에서 보강 강의</a>
 
 - date: 10/6
   week: 6
