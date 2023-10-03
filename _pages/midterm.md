@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Study Guide / 스터디 가이드
-permalink: /guide/
+title: Midterm Guide / 중간고사 가이드
+permalink: /midterm/
 ---
 
 {:toc}
