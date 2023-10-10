@@ -73,7 +73,7 @@
   week: 7
   title: >
     <strong>CHAPTER 07 컴퓨팅 사고력과 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1-tndVeXvJtqB-lzV7vm0Zncu33DHefRGdpKqTQjF_8E/edit?usp=sharing"
   readings:
     - 01 컴퓨팅 사고력
     - 02 추상화의 개념과 구현
@@ -86,6 +86,7 @@
   week: 8
   title: >
     <strong>Midterm Test</strong>
+  slides: "https://docs.google.com/presentation/d/14lQTe9qJjwYAVETvh8mfhx-qKHbHcvKSCo002tb_rU0/edit?usp=sharing"
 
 - date: 10/27
   week: 9
