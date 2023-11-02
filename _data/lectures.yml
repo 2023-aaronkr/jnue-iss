@@ -100,11 +100,13 @@
 - date: 10/27
   week: 9
   title: >
-    <strong>LMS (보강) 응용 프로그래밍</strong>
+    <strong>응용 프로그래밍</strong><br>
+    <a style="color: red;" href="https://lms.jnue.kr">(LMS에서 보강)</a><br>
   slides: "https://docs.google.com/presentation/d/1JYjl7wi-s7IWPQ7jNp5diqXCrOmhxLoe5fzqBfH8Lv8/edit?usp=sharing"
   readings:
     - A-01 상어 프로그램
-  logistics:
+  logistics: >
+    <a href="https://lms.jnue.kr"><strong>11.11까지</strong> LMS에서 보강 강의</a>
 
 - date: 11/3
   week: 10
