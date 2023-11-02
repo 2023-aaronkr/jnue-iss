@@ -100,16 +100,25 @@
 - date: 10/27
   week: 9
   title: >
-    <strong>CHAPTER 08 감지를 활용한 응용 프로그래밍</strong>
+    <strong>LMS (보강) 응용 프로그래밍</strong>
   slides:
+  readings:
+    - A-01 상어 프로그램
+  logistics:
+
+- date: 11/3
+  week: 10
+  title: >
+    <strong>CHAPTER 08 감지를 활용한 응용 프로그래밍</strong>
+  slides: "https://docs.google.com/presentation/d/1pnpH_07rxCEokS3BK7eMGhr_4RtlFb73NtGXgYQw8gM/edit?usp=sharing"
   readings:
     - 01 감지의 이해
     - 02 감지 응용 프로그래밍
     - 03 카메라와 마이크 응용 프로그래밍
   logistics:
 
-- date: 11/3
-  week: 10
+- date: 11/10
+  week: 11
   title: >
     <strong>CHAPTER 09 이벤트를 활용한 응용 프로그래밍</strong>
   slides:
@@ -119,8 +128,8 @@
     - 03 비디오와 오디오 이벤트 응용 프로그래밍
   logistics:
 
-- date: 11/10
-  week: 11
+- date: 11/17
+  week: 12
   title: >
     <strong>CHAPTER 10 복제, 난수, 재귀 호출을 활용한 응용 프로그래밍</strong>
   slides:
@@ -130,8 +139,8 @@
     - 03 재귀호출의 개념과 활용
   logistics:
 
-- date: 11/17
-  week: 12
+- date: 11/24
+  week: 13
   title: >
     <strong>CHAPTER 11 프로그램 개발 과정 이해하기</strong>
   slides:
@@ -142,8 +151,8 @@
     - 04 요구사항 분석과 테스팅 연습
   logistics:
 
-- date: 11/24
-  week: 13
+- date: 12/1
+  week: 14
   title: >
     <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
   slides:
@@ -153,8 +162,8 @@
     - 03 공을 던져 개를 맞히는 게임 프로그래밍
   logistics:
 
-- date: 12/1
-  week: 14
+- date: 12/8
+  week: 15
   title: >
     <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
   slides:
@@ -165,15 +174,10 @@
     - 04 친구와의 만남 인터랙티브 스토리 프로그래밍
   logistics:
 
-- date: 12/8
+- date: 12/15
   week: 15
   title: >
     <strong>Final Project / Final Test</strong>
   slides:
   readings:
   logistics:
-
-- date: 12/15
-  week: 16
-  title: >
-    <strong>Final Grades?</strong>
