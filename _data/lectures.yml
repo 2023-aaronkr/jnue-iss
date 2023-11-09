@@ -123,7 +123,7 @@
   week: 11
   title: >
     <strong>CHAPTER 09 이벤트를 활용한 응용 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1gNQe6ZnOE8SC7_-4iJIT27qjwDJfdIpdoG6kJReJP2g/edit?usp=sharing"
   readings:
     - 01 이벤트 처리와 메시지 방송
     - 02 이벤트 응용 프로그래밍
