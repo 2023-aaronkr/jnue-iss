@@ -167,6 +167,14 @@
 - date: 12/8
   week: 15
   title: >
+    <strong>Final Project / Final Test</strong>
+  slides:
+  readings:
+  logistics:
+
+- date: 12/15
+  week: 15
+  title: >
     <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
   slides:
   readings:
@@ -176,10 +184,4 @@
     - 04 친구와의 만남 인터랙티브 스토리 프로그래밍
   logistics:
 
-- date: 12/15
-  week: 15
-  title: >
-    <strong>Final Project / Final Test</strong>
-  slides:
-  readings:
-  logistics:
+
