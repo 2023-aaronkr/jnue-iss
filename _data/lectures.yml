@@ -144,36 +144,16 @@
 - date: 11/24
   week: 13
   title: >
-    <strong>CHAPTER 11 프로그램 개발 과정 이해하기</strong>
-  slides:
-  readings:
-    - 01 프로그램의 생명주기
-    - 02 요구사항 분석의 개념과 예
-    - 03 프로그램 테스팅의 개념과 예
-    - 04 요구사항 분석과 테스팅 연습
-  logistics:
-
-- date: 12/1
-  week: 14
-  title: >
     <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
   slides:
   readings:
     - 01 게임의 개념과 종류
     - 02 다양한 게임 기능의 구현
     - 03 공을 던져 개를 맞히는 게임 프로그래밍
-  logistics:
+  logistics:  
 
-- date: 12/8
-  week: 15
-  title: >
-    <strong>Final Project / Final Test</strong>
-  slides:
-  readings:
-  logistics:
-
-- date: 12/15
-  week: 15
+- date: 12/1
+  week: 14
   title: >
     <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
   slides:
@@ -184,4 +164,22 @@
     - 04 친구와의 만남 인터랙티브 스토리 프로그래밍
   logistics:
 
+- date: 12/8
+  week: 15
+  title: >
+    <strong>Final Project / Final Test</strong>
+  slides:
+  readings:
+  logistics:
 
+- date: 12/8
+  week: 15
+  title: >
+    <strong>CHAPTER 11 프로그램 개발 과정 이해하기</strong>
+  slides:
+  readings:
+    - 01 프로그램의 생명주기
+    - 02 요구사항 분석의 개념과 예
+    - 03 프로그램 테스팅의 개념과 예
+    - 04 요구사항 분석과 테스팅 연습
+  logistics:
