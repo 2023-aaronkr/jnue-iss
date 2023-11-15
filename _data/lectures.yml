@@ -134,7 +134,7 @@
   week: 12
   title: >
     <strong>CHAPTER 10 복제, 난수, 재귀 호출을 활용한 응용 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1cw7-HMIphjlPsi7ikcr5MFIyUCQNtIbZvEBsa2c06HM/edit?usp=sharing"
   readings:
     - 01 복제의 개념과 활용
     - 02 난수의 개념과 활용
