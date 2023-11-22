@@ -145,7 +145,7 @@
   week: 13
   title: >
     <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1Kbuy37cIawvOY5C-eK680eNWVLXziyg6FyppDjkzHf8/edit?usp=sharing"
   readings:
     - 01 게임의 개념과 종류
     - 02 다양한 게임 기능의 구현
