@@ -100,8 +100,19 @@
 - date: 10/27
   week: 9
   title: >
+    <strong>응용 프로그래밍</strong><br>
+    <a style="color: red;" href="https://lms.jnue.kr">(LMS에서 보강)</a><br>
+  slides: "https://docs.google.com/presentation/d/1JYjl7wi-s7IWPQ7jNp5diqXCrOmhxLoe5fzqBfH8Lv8/edit?usp=sharing"
+  readings:
+    - A-01 상어 프로그램
+  logistics: >
+    <a href="https://lms.jnue.kr"><strong>11.11까지</strong> LMS에서 보강 강의</a>
+
+- date: 11/3
+  week: 10
+  title: >
     <strong>CHAPTER 08 감지를 활용한 응용 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1pnpH_07rxCEokS3BK7eMGhr_4RtlFb73NtGXgYQw8gM/edit?usp=sharing"
   readings:
     - 01 감지의 이해
     - 02 감지 응용 프로그래밍
@@ -109,30 +120,69 @@
   logistics: >
     <a href="https://lms.jnue.kr">LMS에서 보강 강의</a>
 
-- date: 11/3
-  week: 10
+- date: 11/10
+  week: 11
   title: >
     <strong>CHAPTER 09 이벤트를 활용한 응용 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1gNQe6ZnOE8SC7_-4iJIT27qjwDJfdIpdoG6kJReJP2g/edit?usp=sharing"
   readings:
     - 01 이벤트 처리와 메시지 방송
     - 02 이벤트 응용 프로그래밍
     - 03 비디오와 오디오 이벤트 응용 프로그래밍
   logistics:
 
-- date: 11/10
-  week: 11
+- date: 11/17
+  week: 12
   title: >
     <strong>CHAPTER 10 복제, 난수, 재귀 호출을 활용한 응용 프로그래밍</strong>
-  slides:
+  slides: "https://docs.google.com/presentation/d/1cw7-HMIphjlPsi7ikcr5MFIyUCQNtIbZvEBsa2c06HM/edit?usp=sharing"
   readings:
     - 01 복제의 개념과 활용
     - 02 난수의 개념과 활용
     - 03 재귀호출의 개념과 활용
   logistics:
 
-- date: 11/17
-  week: 12
+- date: 11/24
+  week: 13
+  title: >
+    <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
+  slides: "https://docs.google.com/presentation/d/1Kbuy37cIawvOY5C-eK680eNWVLXziyg6FyppDjkzHf8/edit?usp=sharing"
+  readings:
+    - 01 게임의 개념과 종류
+    - 02 다양한 게임 기능의 구현
+    - 03 공을 던져 개를 맞히는 게임 프로그래밍
+  logistics:  
+
+- date: 12/1
+  week: 14
+  title: >
+    <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
+  slides: "https://docs.google.com/presentation/d/1B0p17XW0jLqLhyS7_vzcAJ_kHXrH13VrwtBqItowR-Y/edit?usp=sharing"
+  readings:
+    - 01 인터랙티브 스토리의 개념과 진행 구조
+    - 02 인터랙티브 스토리의 씬 진행과 씬 전환
+    - 03 인터랙티브 스토리의 대화 처리
+    - <del>04 친구와의 만남 인터랙티브 스토리 프로그래밍</del>
+  logistics:
+
+- date: 12/8
+  week: 15
+  title: >
+    <strong>Final Test</strong>
+  slides: "https://docs.google.com/presentation/d/1oEJRQ7LDb_VcjHc0652LIITJ4Wq-tZn8C9yjbmoOiao/edit?usp=sharing"
+  readings:
+  logistics: >
+    기말고사
+    <ul>
+      <li style="display: none;">(7) <a href="https://forms.gle/WCZdZGV1ERv5jyv89">퀴즈</a> &bull; <a href="https://docs.google.com/presentation/d/15mUw60Io1DKCjj1zyphSI9B7pY3jkCO5V6CXoFxn7Ho/edit?usp=sharing">실기</a></li>
+      <li style="display: none;">(2) <a href="https://forms.gle/LTLKgwwDfUwkqJRcA">퀴즈</a> &bull; <a href="https://docs.google.com/presentation/d/15mUw60Io1DKCjj1zyphSI9B7pY3jkCO5V6CXoFxn7Ho/edit?usp=sharing">실기</a></li>
+      <li style="display: none;">(8) <a href="https://forms.gle/xFRDiFukypKA355T8">퀴즈</a> &bull; <a href="https://docs.google.com/presentation/d/15mUw60Io1DKCjj1zyphSI9B7pY3jkCO5V6CXoFxn7Ho/edit?usp=sharing">실기</a></li>
+      <li>(12) <a href="https://forms.gle/aChMwkvwSGHbqe6YA">퀴즈</a> &bull; <a href="https://docs.google.com/presentation/d/15mUw60Io1DKCjj1zyphSI9B7pY3jkCO5V6CXoFxn7Ho/edit?usp=sharing">실기</a></li>
+      <li style="display: none;"><a href="https://forms.gle/mFGTWUcrvAjLEjyf8">기말고사 파일 업로드</a></li>
+    </ul>
+
+- date: 12/8
+  week: 15
   title: >
     <strong>CHAPTER 11 프로그램 개발 과정 이해하기</strong>
   slides:
@@ -142,39 +192,3 @@
     - 03 프로그램 테스팅의 개념과 예
     - 04 요구사항 분석과 테스팅 연습
   logistics:
-
-- date: 11/24
-  week: 13
-  title: >
-    <strong>CHAPTER 12 창의 게임 프로그래밍</strong>
-  slides:
-  readings:
-    - 01 게임의 개념과 종류
-    - 02 다양한 게임 기능의 구현
-    - 03 공을 던져 개를 맞히는 게임 프로그래밍
-  logistics:
-
-- date: 12/1
-  week: 14
-  title: >
-    <strong>CHAPTER 13 창의 인터랙티브 스토리 프로그래밍</strong>
-  slides:
-  readings:
-    - 01 인터랙티브 스토리의 개념과 진행 구조
-    - 02 인터랙티브 스토리의 씬 진행과 씬 전환
-    - 03 인터랙티브 스토리의 대화 처리
-    - 04 친구와의 만남 인터랙티브 스토리 프로그래밍
-  logistics:
-
-- date: 12/8
-  week: 15
-  title: >
-    <strong>Final Project / Final Test</strong>
-  slides:
-  readings:
-  logistics:
-
-- date: 12/15
-  week: 16
-  title: >
-    <strong>Final Grades?</strong>
